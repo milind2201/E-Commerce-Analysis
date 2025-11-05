@@ -46,7 +46,7 @@ The **E-commerce Sales Dashboard** was developed to help business stakeholders:
 
 ## 📸 Dashboard Preview
 
-![E-Commerce Dashboard Preview](692d6f39-481b-4232-b11b-f071d8412bc2.png)
+![E-Commerce Dashboard Preview](https://raw.githubusercontent.com/milind2201/E-Commerce-Analysis/main/Dash.JPG)
 
 ---
 
@@ -61,5 +61,5 @@ The **E-commerce Sales Dashboard** was developed to help business stakeholders:
 
 ---
 
-## 📂 Project Structure
+
 
